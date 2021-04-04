@@ -1,7 +1,7 @@
 package stats
 
 import (
-	"github.com/KomGitHub/bank/pkg/types"
+	"github.com/KomGitHub/bank/v2/pkg/types"
 	"fmt"
 )
 
